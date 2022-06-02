@@ -1,0 +1,26 @@
+li {
+    color: white;
+}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+	background-color: black; 
+	text-align: center;
+}
+
+.wid {
+	margin-top: 69px;
+	color: white;
+}
+
+.red {
+	color: red;
+}
+
+.grey {
+	margin-top: 54px;
+	background-color: grey;
+}
