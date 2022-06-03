@@ -8,6 +8,7 @@ function Contacts() {
     const email = "yawoffeh@gmail.com";
     return  (
         <div class="grey">
+            <span>Movies, series and videos are available at a cool price</span>
             <p>Contacts</p>
             <ul>
                 <li>Phone: {phone}</li>
